@@ -16,7 +16,7 @@
     }
   },
   "lint-staged": {
-    "*.{js,ts,html,md}": [
+    "*.{js,ts,html,md,css}": [
       "prettier --single-quote --write",
       "git add"
     ]
