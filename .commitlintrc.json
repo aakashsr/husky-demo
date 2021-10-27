@@ -3,7 +3,7 @@
     "rules": {
         "type-enum": [2, "always", ["FEATURE"]],
         "type-case": [2, "always", "upper-case"],
-        "subject-case": [2,"always","sentence-case"],
+        "subject-case": [2,"never","upper-case"],
         "subject-empty": [2, "never"]
     }
 }
